@@ -30,11 +30,9 @@
     text-align: left  
 }
 
-/*vista index.htlm*/
-.recepcion{
-    padding-top:140px;
-    padding-bottom: 140px;
-}
-.contacto{
-    padding-top:100px;
+/*.img-proyecto{
+    height: 50vh;
+}*/
+.introRecepcion {
+    height: 100vh;
 }
