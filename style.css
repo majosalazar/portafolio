@@ -1,8 +1,6 @@
 /* TODAS LAS VENTANA*/
-.navbar{
-    background-color: #92D587;
-    color: #434343; 
-    
+.navbar-color{
+    background-color: #BBE1C3;    
 }
 .projectSummary{
     padding: 20px 80px;
@@ -41,3 +39,24 @@
     padding-bottom: 0px;
     padding-top: 30px;
 }
+
+.color-principal {
+    color: #659157;
+}
+
+body {
+    color: #4F6D7A;
+    font-family: 'Playfair Display', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #4F6D7A;
+    font-weight: 500;
+  }
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+  
+  }
