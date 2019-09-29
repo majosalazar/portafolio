@@ -36,3 +36,8 @@
 .introRecepcion {
     height: 100vh;
 }
+
+.p-p {
+    padding-bottom: 0px;
+    padding-top: 30px;
+}
